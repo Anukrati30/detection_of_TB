@@ -9,5 +9,5 @@ Normal:
 Tuberculosis:
 ![image](https://github.com/Anukrati30/detection_of_TB/assets/80569757/2fc1ad4e-e920-421c-809c-19128d348c37)
 
-
+densenetpredict.ipynb - In this layer is added to DenseNet 121 model.
  
